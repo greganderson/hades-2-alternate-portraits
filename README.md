@@ -1,15 +1,7 @@
-# Mod name
+# Hades 2 Alternate Portraits
 
-Hades II mod allowing to do some super duper thing.
+This mod swaps out some of the portraits of various characters to alternate versions.
 
-## Features
+Characters adjusted:
 
-- Wow.
-- Much cool.
-  - Very doge.
-
-## Install
-
-- Do this.
-- Do that.
-  - Nope, not that.
+- Aphrodite

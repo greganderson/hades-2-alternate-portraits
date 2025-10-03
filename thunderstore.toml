@@ -3,11 +3,11 @@ schemaVersion = "0.0.1"
 
 
 [package]
-namespace = "AuthorName"
-name = "ModName"
+namespace = "greganderson"
+name = "Alternate_Portraits"
 versionNumber = "0.0.0"
-description = "Allows to do some super duper thing."
-websiteUrl = "https://github.com/AuthorName/ModName"
+description = "Swaps out some of the portraits of characters to alternate portraits."
+websiteUrl = "https://github.com/greganderson/hades-2-alternate-portraits"
 containsNsfwContent = false
 
 [package.dependencies]
